@@ -20,7 +20,7 @@ The KPIs we are considering here are,
 ### Data Source:
 Open Data Set from Kaggle [ Excel Sheet ]
 #
-### Steps Followed: 
+### Action Taken: 
 Step 1: Importing the data provided on the excel sheet. 
 
 Step 2: Loading the data into Power Query for transforming it into usable format.
